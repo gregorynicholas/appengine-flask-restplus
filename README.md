@@ -77,3 +77,13 @@ See [LICENSE](LICENSE)
 
 ## Author
 Logan Henriquez and Johan Euphrosine
+
+## Updates
+Setting up a sample flask api project for flask-restful and flask-restplus.
+
+* http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
+
+
+## Notes
+* Updated to use [flask-restful project structure](https://flask-restful.readthedocs.org/en/0.3.2/intermediate-usage.html#project-structure)
+* 
